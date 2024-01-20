@@ -1,6 +1,7 @@
 +++
 title = 'The Old Net'
 date = 2024-01-19T20:31:11-08:00
+tags = ['tech']
 +++
 
 If you set your HTTP proxy to `theoldnet.com` with port `1999`, and add an exclusion for `web.archive.org`, then all your web pages will come from 1999, via the Wayback Machine.  You can pick a different year by changing the port.

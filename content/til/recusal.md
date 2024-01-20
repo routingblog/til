@@ -1,6 +1,7 @@
 +++
 title = 'Recusal'
 date = 2024-01-15T23:17:50-08:00
+tags = ['law']
 +++
 
 Recusal motions for judicial bias were unknown at common law in England, and none would exist in federal courts until 1911.
