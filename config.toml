@@ -1,0 +1,10 @@
+baseURL = 'https://routingblog.github.io/til/'
+languageCode = 'en-us'
+title = 'TIL'
+
+theme = ["hugo-flex"]
+
+[params]
+  schema = true
+  opengraph = true
+  footer = ''
